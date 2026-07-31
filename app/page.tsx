@@ -16,7 +16,7 @@ const reviews = [
 const faq = [
   ['Faut-il réserver ?', 'La réservation est conseillée, surtout pour profiter des tables face à la mer. Appelez-nous au 02 97 68 82 93.'],
   ['Quels sont vos horaires ?', 'Lundi : 11h45–17h30 et 19h00–21h00. Mardi–jeudi : 11h45–17h30. Vendredi : 11h45–15h00 et 19h00–21h00. Samedi : 11h45–17h00. Dimanche : fermé.'],
-  ['Avez-vous une terrasse ?', 'Oui, notre terrasse se trouve directement face au golfe du Morbihan, à quelques pas de l'embarcadère.'],
+  ['Avez-vous une terrasse ?', 'Oui, notre terrasse se trouve directement face au golfe du Morbihan, à quelques pas de l embarcadère.'],
   ['Les animaux sont-ils acceptés ?', 'Oui, les chiens sont les bienvenus chez Chez Jonas.'],
   ['Le restaurant est-il accessible PMR ?', 'Oui, le restaurant est accessible aux personnes à mobilité réduite.'],
 ]
